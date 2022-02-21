@@ -11,14 +11,14 @@ setuptools.setup(
     description="A somewhat usless package",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="",
+    url="https://github.com/JD1099/backupDB.git",
     project_urls={
-        "Bug Tracker": "",
+        "Bug Tracker": "https://github.com/JD1099/backupDB/issues",
     },
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
-        "Operating System :: Ubuntu Linux",
+        "Operating System :: POSIX :: Linux",
     ],
     package_dir={"": "src"},
     packages=setuptools.find_packages(where="src"),
