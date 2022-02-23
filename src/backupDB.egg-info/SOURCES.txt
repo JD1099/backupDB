@@ -2,9 +2,9 @@ LICENSE
 README.md
 pyproject.toml
 setup.py
+src/backupDB/__init__.py
+src/backupDB/backupDB.py
 src/backupDB.egg-info/PKG-INFO
 src/backupDB.egg-info/SOURCES.txt
 src/backupDB.egg-info/dependency_links.txt
 src/backupDB.egg-info/top_level.txt
-src/backupDB_package/__init__.py
-src/backupDB_package/backupDB.py
